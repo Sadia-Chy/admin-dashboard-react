@@ -1,0 +1,10 @@
+.header{
+    font-weight: normal;
+    margin-left: 400px;
+    text-align: center;
+    width:250px;
+    border-bottom: 1px solid rgb(221, 214, 214);
+    font-size: 25px;
+    font-weight: lighter;
+    font-family: system-ui;
+}
